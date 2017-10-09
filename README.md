@@ -24,6 +24,10 @@ Make the script usable everywhere:
 
 That's all!
 
+### Homebrew
+
+*Work in progress...*
+
 ## How To
 
 ### Choose an icon
